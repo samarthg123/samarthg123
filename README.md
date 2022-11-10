@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samarthg123
+- 👋 Hi, I’m Samarth!
 - 👀 I’m interested in the intersection of CS + Music
 - 🌱 I’m currently improving my Python Skills and working on Deep Learning/ML Projects using Tensor-flow and Keras
 - 💞️ I’m looking to collaborate on any deep learning or music-related projects for healthcare/business-tech applications
