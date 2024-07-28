@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Samarth!
-- 👀 I’m interested in the intersection of CS + Music as well as its applications in healthcare/business-tech
-- 🌱 I’m currently improving my Python skills and working on Deep Learning/ML Projects using Tensorflow and Keras
-- 💞️ I’m looking to collaborate on any deep learning or music-related projects for healthcare/business-tech applications
-- 📫 You can reach me via email @samg94404@gmail.com or LinkedIn
+- 👀 I’m interested in the intersection of Math-CS + Law including its applications in the business/legal world
+- ⚖️ I’m currently working on implementing programming skills to applications such as math, law (intellectual property), and policy fields
+- 🖥️ I’m looking to collaborate on any LLMs, ML/AI focused projects, as well as front-end dev
+- 📫 You can reach me via email @sghodke@ucsd.edu or via LinkedIn
 
 <!---
 samarthg123/samarthg123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
