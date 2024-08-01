@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samarth!
 - 👀 I’m interested in the intersection of Math-CS + Law including its applications in the business/legal world
-- ⚖️ I’m currently working on implementing programming skills to applications such as math, law (intellectual property), and policy fields
+- ⚖️ I’m currently working on implementing programming skills to applications such as math, law (intellectual property), and business fields
 - 🖥️ I’m looking to collaborate on any LLMs, ML/AI focused projects, as well as front-end dev
 - 📫 You can reach me via email @sghodke@ucsd.edu or via LinkedIn
 
